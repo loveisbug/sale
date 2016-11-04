@@ -1,23 +1,27 @@
 # sale
-七周七并发模型 ￥18
+《七周七并发模型》 ￥18
+
+~~《Objective-C编程: Big Nerd Ranch入门经典》[华科] ￥5~~
+
+《PHP编程基础及应用实例集锦》 ￥0
 
 [许知远](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2323134493%2F) ￥10 * 2
 
-  1. 转折年代
-  1. 那些忧伤的年轻人
+  1. 《转折年代》
+  1. 《那些忧伤的年轻人》
 
-黄瓜的黄 西瓜的西 ￥3
+《黄瓜的黄 西瓜的西》 ￥3
 
-[高研院的四季](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2204228281%2F) ￥10
+《[高研院的四季](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2204228281%2F)》 ￥10
 
-[达人迷——认知行为疗法](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2189483706%2F) ￥20
+《[达人迷——认知行为疗法](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2189483706%2F)》 ￥20
 
-[达人迷——肢体语言](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2189483715%2F) ￥18
+《[达人迷——肢体语言](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2189483715%2F)》 ￥18
 
 余杰
 
-  1. 老鼠爱大米
-  1. 尴尬时代
+  1. 《老鼠爱大米》
+  1. 《尴尬时代》
 
 --------
 
@@ -71,17 +75,17 @@ iOS编程：For Xcode 4（华科版）
 
 ###已售 
 
-~~图解TCP/IT ￥10~~
+~~《图解TCP/IP》 ￥10~~
 
-~~Android应用性能优化 ￥10~~
+~~《Android应用性能优化》 ￥10~~
 
 
-~~简约至上 ￥0~~
+~~《简约至上》 ￥0~~
 
-~~敏捷教练：如何打造优秀的敏捷团队 ￥15~~
+~~《敏捷教练：如何打造优秀的敏捷团队》 ￥15~~
 
-~~在你身边，为你设计 ￥0~~
+~~《在你身边，为你设计》 ￥0~~
 
-~~我是一只IT小小鸟 ￥0~~
+~~《我是一只IT小小鸟》 ￥0~~
 
 
