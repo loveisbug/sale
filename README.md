@@ -5,6 +5,8 @@
 
 《PHP编程基础及应用实例集锦》 ￥0
 
+《群体的智慧》 ￥25
+
 [许知远](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2323134493%2F) ￥10 * 2
 
   1. 《转折年代》
@@ -12,11 +14,21 @@
 
 《黄瓜的黄 西瓜的西》 ￥3
 
+《窥看舞台》 ￥22
+
+《双头恶魔》（上下） ￥18
+
 《[高研院的四季](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2204228281%2F)》 ￥10
 
 《[达人迷——认知行为疗法](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2189483706%2F)》 ￥20
 
 《[达人迷——肢体语言](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2189483715%2F)》 ￥18
+
+张发财
+
+  1. 《历史就这七八样》
+  1. 《一个都不正经》
+  1. 《大家都很2》
 
 余杰
 
@@ -37,11 +49,6 @@
   1. 火与冰
   1. 铁屋中的呐喊
   
-张发财
-
-  1. 历史就这七八样
-  1. 一个都不正经
-  1. 大家都很2
 
 程序员面试金典（第5版）
 
@@ -78,7 +85,6 @@ iOS编程：For Xcode 4（华科版）
 ~~《图解TCP/IP》 ￥10~~
 
 ~~《Android应用性能优化》 ￥10~~
-
 
 ~~《简约至上》 ￥0~~
 
