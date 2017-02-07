@@ -1,11 +1,7 @@
 # sale
 《七周七并发模型》 ￥18
 
-~~《Objective-C编程: Big Nerd Ranch入门经典》[华科] ￥5~~
-
 《PHP编程基础及应用实例集锦》 ￥0
-
-《群体的智慧》 ￥25
 
 [许知远](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2323134493%2F) ￥10 * 2
 
@@ -14,13 +10,7 @@
 
 《黄瓜的黄 西瓜的西》 ￥3
 
-《窥看舞台》 ￥22
-
-《双头恶魔》（上下） ￥18
-
 《[高研院的四季](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2204228281%2F)》 ￥10
-
-《[达人迷——认知行为疗法](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2189483706%2F)》 ￥20
 
 《[达人迷——肢体语言](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2189483715%2F)》 ￥18
 
@@ -70,8 +60,6 @@
 
 我们要自学
 
-Objective-C编程：Big Nerd Ranch入门经典（华科版）
-
 iOS 6编程实战（人邮版）
 
 iOS编程：For Xcode 4（华科版）
@@ -81,6 +69,16 @@ iOS编程：For Xcode 4（华科版）
 --------
 
 ###已售 
+
+~~《达人迷——认知行为疗法》 ￥20~~
+
+~~《群体的智慧》 ￥25~~
+
+~~《窥看舞台》 ￥22~~
+
+~~《双头恶魔》（上下） ￥18~~
+
+~~《Objective-C编程: Big Nerd Ranch入门经典》[华科] ￥5~~
 
 ~~《图解TCP/IP》 ￥10~~
 
