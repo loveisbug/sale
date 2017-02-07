@@ -3,16 +3,16 @@
 
 《PHP编程基础及应用实例集锦》 ￥0
 
-[许知远](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2323134493%2F) ￥10 * 2
+[许知远](https://www.douban.com/photos/photo/2323134493/) ￥10 * 2
 
   1. 《转折年代》
   1. 《那些忧伤的年轻人》
 
 《黄瓜的黄 西瓜的西》 ￥3
 
-《[高研院的四季](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2204228281%2F)》 ￥10
+《[高研院的四季](https://www.douban.com/photos/photo/2204228281/)》 ￥10
 
-《[达人迷——肢体语言](https://www.evernote.com/OutboundRedirect.action?dest=https%3A%2F%2Fwww.douban.com%2Fphotos%2Fphoto%2F2189483715%2F)》 ￥18
+《[达人迷——肢体语言](https://www.douban.com/photos/photo/2189483715/)》 ￥18
 
 张发财
 
