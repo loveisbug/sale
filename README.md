@@ -1,16 +1,19 @@
 # sale
+《[AWS云端企业实战圣经](https://www.douban.com/photos/photo/2204945586/)》 ￥8
+
 《七周七并发模型》 ￥18
+
+《[请用数据说话](https://www.douban.com/photos/photo/2499163303/)》 ￥5
 
 《PHP编程基础及应用实例集锦》 ￥0
 
-[许知远](https://www.douban.com/photos/photo/2323134493/) ￥10 * 2
-
-  1. 《转折年代》
-  1. 《那些忧伤的年轻人》
+[许知远 《那些忧伤的年轻人》](https://www.douban.com/photos/photo/2323134493/) ￥10
 
 《黄瓜的黄 西瓜的西》 ￥3
 
 《FBI心理分析术》 ￥3
+
+《[野蛮人的性生活](https://www.douban.com/photos/photo/1145877334/)》 ￥5
 
 《三双鞋》 ￥4
 
@@ -20,7 +23,7 @@
 
 《[达人迷——肢体语言](https://www.douban.com/photos/photo/2189483715/)》 ￥18
 
-中国足球史 ￥3 * 3
+[中国足球史](https://www.douban.com/photos/photo/1051570446/) ￥3 * 3
 
   1. 《中国足球内幕》
   1. 《足球门》
@@ -28,9 +31,9 @@
 
 老流氓随笔 ￥3 * 3
 
-  1. 《迅雷不及掩耳盗铃之势》王小山
-  1. 《我打不赢爱情》和菜头
-  1. 《别拿畜生不当人》小宝
+  1. 《[迅雷不及掩耳盗铃之势](https://www.douban.com/photos/photo/1145873083/)》王小山
+  1. 《[我打不赢爱情](https://www.douban.com/photos/photo/1145874870/)》和菜头
+  1. 《[别拿畜生不当人](https://www.douban.com/photos/photo/1145870566/)》小宝
 
 张发财
 
@@ -87,6 +90,9 @@ iOS编程：For Xcode 4（华科版）
 --------
 
 ###已售 
+~~《转折年代》 ￥10~~
+
+~~《那些忧伤的年轻人》 ￥10~~
 
 ~~《失落的一代》 ￥20~~
 
