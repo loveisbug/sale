@@ -7,6 +7,20 @@
 
 《PHP编程基础及应用实例集锦》 ￥0
 
+《[江湖唱游](https://www.douban.com/photos/photo/1145872809/)》 ￥2
+
+《最后的人质》 ￥2
+
+《篮筐下的阴谋》 ￥2
+
+《Excel图表之道》 ￥15
+
+《硅谷百年史》 ￥30
+
+《我的住院日记之羊肉炉不是故意的》 ￥2
+
+《病隙碎笔》 ￥5
+
 许知远 《[那些忧伤的年轻人》](https://www.douban.com/photos/photo/2323134493/) ￥10
 
 《黄瓜的黄 西瓜的西》 ￥3
@@ -14,6 +28,8 @@
 《[野蛮人的性生活](https://www.douban.com/photos/photo/1145877334/)》 ￥5
 
 《[高研院的四季](https://www.douban.com/photos/photo/2204228281/)》 ￥10
+
+《[唱片封套新格调](https://www.douban.com/photos/photo/1208216312/)》 ￥3
 
 《[达人迷——肢体语言](https://www.douban.com/photos/photo/2189483715/)》 ￥18
 
