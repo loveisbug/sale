@@ -1,8 +1,6 @@
 # sale
 《[AWS云端企业实战圣经](https://www.douban.com/photos/photo/2204945586/)》 ￥8
 
-《七周七并发模型》 ￥18
-
 《[请用数据说话](https://www.douban.com/photos/photo/2499163303/)》 ￥5
 
 《PHP编程基础及应用实例集锦》 ￥0
@@ -19,17 +17,12 @@
 
 《[达人迷——肢体语言](https://www.douban.com/photos/photo/2189483715/)》 ￥18
 
-[中国足球史](https://www.douban.com/photos/photo/1051570446/) ￥3 * 3
+[中国足球史](https://www.douban.com/photos/photo/1051570446/) ￥3 * 2
 
-  1. 《中国足球内幕》
   1. 《足球门》
   1. 《中国足球窝案》
 
-老流氓随笔 ￥3 * 3
-
-  1. 《[迅雷不及掩耳盗铃之势](https://www.douban.com/photos/photo/1145873083/)》王小山
-  1. 《[我打不赢爱情](https://www.douban.com/photos/photo/1145874870/)》和菜头
-  1. 《[别拿畜生不当人](https://www.douban.com/photos/photo/1145870566/)》小宝
+《[迅雷不及掩耳盗铃之势](https://www.douban.com/photos/photo/1145873083/)》王小山 ￥3
 
 张发财
 
@@ -88,6 +81,20 @@ iOS编程：For Xcode 4（华科版）
 --------
 
 ### 已售
+
+~~《每个孩子都能好好睡觉》 ￥6~~
+
+~~《嗨，一起跑步吧！》 ￥10~~
+
+~~《这书要卖100万》 ￥3.6~~
+
+~~《七周七并发模型》 ￥14.7~~
+
+~~《别拿畜生不当人》 ￥5.4~~
+
+~~《我打不赢爱情》 ￥3.6~~
+
+~~《中国足球内幕》 ￥5.2~~
 
 ~~《独唱团（第一辑）》 ￥6.4~~
 
